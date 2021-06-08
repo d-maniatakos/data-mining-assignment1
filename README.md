@@ -1,3 +1,7 @@
-# data-mining-assignment1
+# Data Mining Assignment 1 - Netflix Dataset Exploration & Simple Recommendation Engine #
 
-Test to see if u can access it in colab
+1st Assignment of Data Mining Course in the Department of Informatics & Telecommunications, University of Athens
+
+## Team
+- Kostis Maidatsis
+- Dionysis Maniatakos
